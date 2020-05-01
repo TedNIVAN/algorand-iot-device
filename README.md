@@ -1,2 +1,5 @@
 # algorand-iot-device
-Iot Device
+MCU firmware 
+
+![IoT Device](arduino-hc05.png)
+
